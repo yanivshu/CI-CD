@@ -11,6 +11,6 @@ public class HelloResource {
 	
 	@GetMapping
 	public String hello() {
-		return "Hello From LAB, manual CI/CD V1";
+		return "Hello From LAB, manual CI/CD V2";
 	}
 }
